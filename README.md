@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sarvaswichougule/leetCode_submission123/tree/master/0242-valid-anagram) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sarvaswichougule/leetCode_submission123/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
